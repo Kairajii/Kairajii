@@ -40,6 +40,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)
 
 ### ⚙ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)

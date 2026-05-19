@@ -46,6 +46,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![REST API](https://img.shields.io/badge/REST-API-orange)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 ### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)

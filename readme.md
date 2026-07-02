@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kairajii&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TusharKaira-blue?logo=linkedin)](https://linkedin.com/in/tushar-kaira-a55397230)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](https://portfolio-nine-rho-22.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](https://tusharkaira.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tusharkaira456@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@TusharKaira-1DA1F2?logo=twitter)](https://x.com/TusharKaira)
 

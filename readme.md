@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Senior Associate Developer @ Brillica Services**
+- 💼 **Senior Software Developer @ Brillica Services**
 - 🧠 Full-Stack Engineer with **real production experience**
 - ⚡ I build **scalable CRMs, FinTech workflows, and SEO-optimized platforms**
 - 📱 Experienced in **Web + Mobile apps (React Native)**

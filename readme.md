@@ -1,5 +1,5 @@
 # Hi, I'm Tushar Kaira 👋
-### Senior Full-Stack Developer | Fintech & Product Engineer | Web & Mobile Architect
+### Full-Stack Developer | Fintech & Product Engineer | Web & Mobile Architect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kairajii&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TusharKaira-blue?logo=linkedin)](https://linkedin.com/in/tushar-kaira-a55397230)
